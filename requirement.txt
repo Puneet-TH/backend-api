@@ -29,7 +29,6 @@ cycler==0.12.1
 debugpy==1.8.8
 decorator==5.1.1
 defusedxml==0.7.1
-dlib @ file:///C:/Users/ASUS/Downloads/dlib-19.22.99-cp310-cp310-win_amd64.whl#sha256=f2181b6724669fb0147c9ebc326d72b94de41bced1812eff5df4b133b5d0b575
 dnspython==2.7.0
 email_validator==2.2.0
 entrypoints==0.4
