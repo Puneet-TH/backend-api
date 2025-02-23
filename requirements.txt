@@ -23,7 +23,6 @@ cloudpickle==3.1.1
 cmake==3.31.4
 colorama==0.4.6
 comm==0.2.2
-comtypes==1.4.9
 contourpy==1.1.1
 cycler==0.12.1
 debugpy==1.8.8
@@ -154,8 +153,6 @@ python-multipart==0.0.20
 python-slugify==8.0.4
 pyttsx3==2.98
 pytz==2023.3.post1
-pywifi==1.1.12
-pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.1
 pyzmq==26.2.0
